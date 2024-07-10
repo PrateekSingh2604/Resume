@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
   margin: 2rem;
+  background-color: blue;
 }
 
 h1, h2, h3 {
@@ -39,3 +40,4 @@ hr {
 
 .projects h3 {
   margin-bottom: 0.5rem;
+}
